@@ -5,4 +5,10 @@ Repository for 401 lab template which will include all of the required configura
 ## Routes 
 ('/') this route will send a text response of "I was sent". There is no parameters needed for this route.
 
-('/data')
+('/data') is going to have a time stamp from middle ware, as well as a number along with either even or odd.
+
+('/bad') this route will lead to text that displays "you messed up". This route uses the middleware system.
+
+Heroku Deployment Dev Link:  https://sunnylee-server-deploy-dev.herokuapp.com/
+
+Heroku Deployment Prod Link: 
