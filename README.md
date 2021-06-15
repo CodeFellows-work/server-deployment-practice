@@ -11,4 +11,4 @@ Repository for 401 lab template which will include all of the required configura
 
 Heroku Deployment Dev Link:  https://sunnylee-server-deploy-dev.herokuapp.com/
 
-Heroku Deployment Prod Link: 
+Heroku Deployment Prod Link: https://sunnylee-server-deploy-prod.herokuapp.com/
